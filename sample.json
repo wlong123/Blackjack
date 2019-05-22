@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Mari",
+      "is_dealer": false,
+      "is_cpu": false,
+      "wallet": 50
+    },
+    {
+      "id": 2,
+      "name": "Will",
+      "is_dealer": false,
+      "is_cpu": false,
+      "wallet": 50
+    },
+    {
+      "id": 3,
+      "name": "Josh",
+      "is_dealer": false,
+      "is_cpu": false,
+      "wallet": 50
+    },
+    {
+      "id": 0,
+      "name": "Dealer",
+      "is_dealer": true,
+      "is_cpu": false,
+      "wallet": 4000
+    }
+  ]
+}

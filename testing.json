@@ -1,0 +1,18 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "m",
+      "is_dealer": false,
+      "is_cpu": false,
+      "wallet": 95
+    },
+    {
+      "id": 0,
+      "name": "Dealer",
+      "is_dealer": true,
+      "is_cpu": false,
+      "wallet": 400
+    }
+  ]
+}
