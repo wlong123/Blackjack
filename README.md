@@ -1,36 +1,4 @@
 # cs3110-midtermProject
+This terminal based Blackjack game was built in OCaml and features a training and classic mode. In training mode there are 3 levels of varying difficulty to allow users of all experience levels to learn. The training modes will teach you everything from how to play the game to perfect betting and playing strategies to methods for effectively counting cards. In classic mode, you can specify the number of human and computer players you want to play against. Every hand you will bet a certain amount and play against the dealer. As you gain more and more chips, you will be able to buy your way into higher stakes tables with higher minimum and maximum betting amounts.
 
-### <a>Done Beta:</a>
-
-<li>Computer AI
-<li>Split
-<li>Double
-<li>Betting
-<li>Save
-<li>Load
-<li>Help
-<li>Multiple Rounds
-<li>Counting Cards Algorirthm
-<li>Ascii Art
-
-### <a>To Do For Final:</a>
-
-<li>Add Learning Mode (single player) <ul>
-  <li>Add Betting strategy
-  <li>Card counting
-  <li>Add Best Move strategy
-  <li>Display stats between rounds (games won) 
-</ul>
-<li>Optimize User Experience
-
-<ol>
-  <li>Add tied print statement for tied
-  <li>Add computer Bool to json
-  <li>Add options to overwrite
-  <li>make comp slower (only output final moves)
-  <li>add see wallet
-  <li>add list of files
-  <li>add a save feature if one player leaves
-  <li>add enter in between computer plays
-  <li>move dealer top card to the top
-</ol>
+To run this game you will first need to install OCaml on your computer. After that you can simply clone the repository and type "make play" into the terminal and start playing. 
